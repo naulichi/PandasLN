@@ -1,7 +1,7 @@
-# Leistungsnachweis Python Pandas
-## Gruppe: Nauli Chiara
+Leistungsnachweis Python Pandas
+Gruppe: Nauli Chiara
 
-## Mütterliche Sterblichkeitsraten der Weltbevölkerung
+Mütterliche Sterblichkeitsraten der Weltbevölkerung
 
 Datenquelle:
 [Maternal-Mortality](https://ourworldindata.org/maternal-mortality)
