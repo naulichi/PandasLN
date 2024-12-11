@@ -7,5 +7,5 @@ In diesem Leistungsnachweis wird die Sterblichkeitsrate der Müttern zwischen de
 [Maternal-Mortality](https://ourworldindata.org/maternal-mortality)
 
 ### Fragestellungen:
-Welche zehn Länder zeigen durchschnittlich in den Jahren von 2000 bis 2020 die höchste müttlerliche Sterblichkeitsrate?
+Welche fünf Länder zeigen durchschnittlich in den Jahren von 2000 bis 2020 die höchste müttlerliche Sterblichkeitsrate?
 Was sind mögliche Gründe für Veränderungen dieser Zahlen?
